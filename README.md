@@ -1,5 +1,5 @@
 # OrbitalMechanics
-Performed hyperparameterization of orbital mechanics using C, MPI, and Gnuplot.
+Performed hyperparameterization of orbital mechanics using C, MPI, OpenGL, and Gnuplot.
 
 Lab07 - Analyzed trajectory of spaceship launched from Earth in circular, elliptical, and hyperbolic orbits and plotted distance and speed over time. 10/18/19 - 10/25/19
 
